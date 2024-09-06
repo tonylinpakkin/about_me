@@ -1,6 +1,4 @@
-# About me
-Tony Lin is a professional data analyst specializing in Regulatory and Compliance of the financial industry
-
+# Tony Lin's profile
 
 ## Table of Contents
 - [About Me](#about-me)
@@ -10,7 +8,7 @@ Tony Lin is a professional data analyst specializing in Regulatory and Complianc
 
 ## About Me
 
-[Provide a brief introduction about yourself, your background, and your passion for data science. Highlight any relevant education, work experience, or personal achievements.]
+Tony Lin is a professional data analyst specializing in Regulatory and Compliance of the financial industry
 
 ## Projects
 
