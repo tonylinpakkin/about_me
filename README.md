@@ -30,8 +30,8 @@ Here are some of the key projects in this portfolio:
 
 ## Skills
 
-- **Programming Languages**: Python, SQL
-- **Data Analysis**: Pandas, NumPy, SciPy
+- **Programming Languages**: Python, SQL, VBA
+- **Data Analytics**: Pandas, NumPy, SciPy
 - **Machine Learning**: Scikit-learn, TensorFlow, PyTorch
 - **Data Visualization**: Tableau, PowerBI
 - **Big Data Technologies**: PySpark
