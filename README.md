@@ -32,18 +32,19 @@ Here are some of the key projects in this portfolio:
 
 ## Skills
 
-- **Programming Languages**: Python, R, SQL
+- **Programming Languages**: Python, SQL
 - **Data Analysis**: Pandas, NumPy, SciPy
 - **Machine Learning**: Scikit-learn, TensorFlow, PyTorch
-- **Data Visualization**: Matplotlib, Seaborn, Plotly
-- **Big Data Technologies**: Spark, Hadoop
+- **Data Visualization**: Tableau, PowerBI
+- **Big Data Technologies**: PySpark
 - **Version Control**: Git
+- **Gen AI**: Autogen, Langchain
 - [Add or modify skills as appropriate]
 
 ## Contact
 
-- LinkedIn: [Your LinkedIn profile URL]
-- Email: [Your professional email address]
-- Personal website: [If applicable]
+- LinkedIn: [https://www.linkedin.com/in/tony-lin-ds/]
+- Email: [tony.pk.lin@gmail.com]
+- Personal website: [https://chatgpt.com/g/g-Zwi3HeQl6-tonygpt]
 
 Feel free to reach out if you have any questions or would like to collaborate on a project!
